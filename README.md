@@ -1,2 +1,2 @@
 # Flow
-Flow is the virtual stream dack for music production.
+Flow is the virtual stream deck for music production.
